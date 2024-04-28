@@ -97,7 +97,7 @@ node src/index.js
 ```
 
 ## <img src="https://cdn.discordapp.com/emojis/1036083490292244493.png" width="15px" height="15px">》Support Server
-[![DiscordBanner](https://invidget.switchblade.xyz/techpoint-1016942011024158782)](https://discord.gg/techpoint-1016942011024158782)
+[![DiscordBanner](dScreenshot 2024-04-29 050841.png](https://discord.gg/techpoint-1016942011024158782)
 
 [Support Server](https://discord.gg/techpoint-1016942011024158782) - Discord-Bot's Support Server Invite
 
